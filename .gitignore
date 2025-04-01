@@ -1,0 +1,17 @@
+# Ignore build artifacts
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Composer (if used)
+vendor/
+
+# WordPress
+wp-content/uploads/
+wp-content/cache/
