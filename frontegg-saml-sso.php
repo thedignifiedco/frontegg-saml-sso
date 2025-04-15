@@ -5,7 +5,7 @@
  * Description: Replaces the WordPress login/logout with secure Frontegg SAML SSO.
  * Version: 1.0.0
  * Author: Frontegg
- * Author URI: https://frontegg.com
+ * Author URI: https://frontegg.com/why-frontegg
  * License: GPL-2.0-or-later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: frontegg-saml-sso
