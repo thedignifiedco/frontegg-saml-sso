@@ -27,7 +27,7 @@
 
 1. Clone this repository into your `wp-content/plugins` directory:
    ```bash
-   git clone https://github.com/thedignifiedco/frontegg-saml-sso-wp.git
+   git clone https://github.com/thedignifiedco/frontegg-wordpress.git
 
 2. Activate the plugin in the WordPress admin under Plugins.
 3. Configure the plugin under Frontegg SAML SSO in your WordPress admin menu.
